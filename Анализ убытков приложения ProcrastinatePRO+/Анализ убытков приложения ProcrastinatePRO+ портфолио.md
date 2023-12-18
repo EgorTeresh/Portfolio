@@ -1021,7 +1021,7 @@ plt.show;
 
 
     
-![png](output_59_0.png)
+"![png](Графики/output_59_0.png)"
     
 
 
@@ -1109,7 +1109,7 @@ plt.show;
 
 
     
-![png](output_63_0.png)
+"![png](Графики/output_63_0.png)"
     
 
 
@@ -1240,7 +1240,7 @@ plt.show;
 
 
     
-![png](output_67_0.png)
+"![png](Графики/output_67_0.png)"
     
 
 
@@ -1436,7 +1436,7 @@ plt.show();
 
 
     
-![png](output_75_0.png)
+"![png](Графики/output_75_0.png)"
     
 
 
@@ -1481,7 +1481,7 @@ mean_cost_channel.plot(kind='pie', title='Средняя стоимость пр
 
 
     
-![png](output_78_1.png)
+"![png](Графики/output_78_1.png)"
     
 
 
@@ -1509,7 +1509,7 @@ plot_ltv_roi(ltv_grouped, ltv_history, roi_grouped, roi_history, analysis_horizo
 
 
     
-![png](output_83_0.png)
+"![png](Графики/output_83_0.png)"
     
 
 
@@ -1654,7 +1654,7 @@ plot_retention(retention, retention_history, analysis_horizon)
 
 
     
-![png](output_93_0.png)
+"![png](Графики/output_93_0.png)"
     
 
 
@@ -1669,7 +1669,7 @@ plot_conversion(conversion, conversion_history, analysis_horizon)
 
 
     
-![png](output_95_0.png)
+"![png](Графики/output_95_0.png)"
     
 
 
@@ -1690,7 +1690,7 @@ plot_ltv_roi(ltv_grouped, ltv_history, roi_grouped, roi_history, analysis_horizo
 
 
     
-![png](output_98_0.png)
+"![png](Графики/output_98_0.png)"
     
 
 
@@ -1713,7 +1713,7 @@ plot_ltv_roi(ltv_grouped, ltv_history, roi_grouped, roi_history, analysis_horizo
 
 
     
-![png](output_101_0.png)
+"![png](Графики/output_101_0.png)"
     
 
 
@@ -1737,7 +1737,7 @@ plot_ltv_roi(ltv_grouped, ltv_history, roi_grouped, roi_history, analysis_horizo
 
 
     
-![png](output_104_0.png)
+"![png](Графики/output_104_0.png)"
     
 
 
@@ -1756,7 +1756,7 @@ plot_retention(retention, retention_history, analysis_horizon)
 
 
     
-![png](output_107_0.png)
+"![png](Графики/output_107_0.png)"
     
 
 
@@ -1768,7 +1768,7 @@ plot_conversion(conversion, conversion_history, analysis_horizon)
 
 
     
-![png](output_108_0.png)
+"![png](Графики/output_108_0.png)"
     
 
 
@@ -1786,7 +1786,7 @@ plot_retention(retention, retention_history, analysis_horizon)
 
 
     
-![png](output_111_0.png)
+"![png](Графики/output_111_0.png)"
     
 
 
@@ -1798,7 +1798,7 @@ plot_conversion(conversion, conversion_history, analysis_horizon)
 
 
     
-![png](output_112_0.png)
+"![png](Графики/output_112_0.png)"
     
 
 
@@ -1819,7 +1819,7 @@ plot_retention(retention_usa, retention_history, analysis_horizon)
 
 
     
-![png](output_115_0.png)
+"![png](Графики/output_115_0.png)"
     
 
 
@@ -1831,7 +1831,7 @@ plot_conversion(conversion, conversion_history, analysis_horizon)
 
 
     
-![png](output_116_0.png)
+"![png](Графики/output_116_0.png)"
     
 
 
@@ -1850,7 +1850,7 @@ plot_retention(retention_eu, retention_history, analysis_horizon)
 
 
     
-![png](output_119_0.png)
+"![png](Графики/output_119_0.png)"
     
 
 
@@ -1862,7 +1862,7 @@ plot_conversion(conversion, conversion_history, analysis_horizon)
 
 
     
-![png](output_120_0.png)
+"![png](Графики/output_120_0.png)"
     
 
 
@@ -1879,7 +1879,7 @@ plot_retention(retention, retention_history, analysis_horizon)
 
 
     
-![png](output_123_0.png)
+"![png](Графики/output_123_0.png)"
     
 
 
@@ -1891,7 +1891,7 @@ plot_conversion(conversion, conversion_history, analysis_horizon)
 
 
     
-![png](output_124_0.png)
+"![png](Графики/output_124_0.png)"
     
 
 
@@ -1912,7 +1912,7 @@ plot_retention(retention_usa, retention_history, analysis_horizon)
 
 
     
-![png](output_127_0.png)
+"![png](Графики/output_127_0.png)"
     
 
 
@@ -1924,7 +1924,7 @@ plot_conversion(conversion, conversion_history, analysis_horizon)
 
 
     
-![png](output_128_0.png)
+"![png](Графики/output_128_0.png)"
     
 
 
@@ -1943,7 +1943,7 @@ plot_retention(retention_eu, retention_history, analysis_horizon)
 
 
     
-![png](output_131_0.png)
+"![png](Графики/output_131_0.png)"
     
 
 
@@ -1955,7 +1955,7 @@ plot_conversion(conversion, conversion_history, analysis_horizon)
 
 
     
-![png](output_132_0.png)
+"![png](Графики/output_132_0.png)"
     
 
 
@@ -1979,7 +1979,7 @@ plot_ltv_roi(ltv_grouped, ltv_history, roi_grouped, roi_history, analysis_horizo
 
 
     
-![png](output_136_0.png)
+"![png](Графики/output_136_0.png)"
     
 
 
@@ -1994,7 +1994,7 @@ plot_ltv_roi(ltv_grouped, ltv_history, roi_grouped, roi_history, analysis_horizo
 
 
     
-![png](output_137_0.png)
+"![png](Графики/output_137_0.png)"
     
 
 
@@ -2020,7 +2020,7 @@ plot_ltv_roi(ltv_grouped, ltv_history, roi_grouped, roi_history, analysis_horizo
 
 
     
-![png](output_141_0.png)
+"![png](Графики/output_141_0.png)"
     
 
 
@@ -2035,7 +2035,7 @@ plot_ltv_roi(ltv_grouped, ltv_history, roi_grouped, roi_history, analysis_horizo
 
 
     
-![png](output_142_0.png)
+"![png](Графики/output_142_0.png)"
     
 
 
