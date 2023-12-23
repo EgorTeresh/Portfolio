@@ -1,1 +1,1 @@
-New Project
+python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib
