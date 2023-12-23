@@ -1,7 +1,8 @@
 # Банки - Анализ оттока клиентов
-
+### Ссылки на анализ данных
 [Анализ данных.md](https://github.com/EgorTeresh/Portfolio/blob/main/Банки%20-%20Анализ%20оттока%20клиентов/Банки-Анализ%20оттока%20клиентов.md)    [Анализ данных.ipynb](https://github.com/EgorTeresh/Portfolio/blob/main/Банки%20-%20Анализ%20оттока%20клиентов/Банки-Анализ%20оттока%20клиентов.ipynb)
 
+### Ссылки на дашборд
 [Дашборд.md](https://github.com/EgorTeresh/Portfolio/blob/main/Банки%20-%20Анализ%20оттока%20клиентов/Банки%20-%20Дашборд.md)    [Дашборд.ipynb](https://github.com/EgorTeresh/Portfolio/blob/main/Банки%20-%20Анализ%20оттока%20клиентов/Банки%20-%20Дашборд.ipynb)
 
 
